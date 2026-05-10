@@ -20,7 +20,7 @@ S∀MØS ENGINE turns legal documents and creative assets into immutable, court-
 - **AI Layer**: Gemini for compliance intelligence
 
 ### Live Demo
-[https://401kultllc.com/](https://wolfe-samos-v7-912703140609.us-central1.run.app/)
+https://wolfe-samos-v7-912703140609.us-central1.run.app/
 
 ### Current Status
 Live prototype • Actively hardening for agent economy (pay.sh + stablecoin integration) • Google Cloud enterprise escalation in progress.
