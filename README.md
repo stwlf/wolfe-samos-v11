@@ -25,4 +25,4 @@ https://wolfe-samos-v7-912703140609.us-central1.run.app/
 ### Current Status
 Live prototype • Actively hardening for agent economy (pay.sh + stablecoin integration) • Google Cloud enterprise escalation in progress.
 
-Built with high-rigor execution by ST Toribio (Founder & CGO, Wolfë / 401 KULT LLC).
+Built with high-rigor execution by ST (Founder & CGO, Wolfë / 401 KULT LLC).
